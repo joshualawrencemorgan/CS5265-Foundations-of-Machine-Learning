@@ -8,6 +8,8 @@ Bikeshare programs in large cities offer a cost-effective and environmentally fr
 ## Project Description
 This project seeks to learn more about the behaviors of bikeshare users by creating a membership prediction model for Capital Bikeshare (CaBi). The analysis is conducted on user trip data from [August 2023 rides](https://s3.amazonaws.com/capitalbikeshare-data/index.html) provided by Capital Bikeshare. I anticipate that the results of the model will highlight key differences in ridership behaviors such as time of ride, bike type, and duration of ride that could help CaBi better serve its customers and maximize profitability.
 
+For the above project desctiption, I would recommend including a short sentance or summary of how you would clean the dataset, if needed.
+
 ## Performance Metrics
 
 Accuracy - Can the model correctly predict whether a ride was taken by a member or a casual rider? This will involve training against a dataset and comparing the model's determination against the data from Capital Bikeshare. Results will be recorded into a confusion matrix and classification accuracy will calculated using the function below.
@@ -20,3 +22,5 @@ Accuracy - Can the model correctly predict whether a ride was taken by a member 
 $$ Accuracy =\frac{TruePositive+TrueNegative}{𝑇rue𝑃ositive+𝐹alse𝑃ositive+𝐹alse𝑁egative+𝑇rue𝑁egative} $$
 
 Characteristics - Which characteristics of a ride are more important for members? Using the model, is it possible to identify attributes of a ride that are more common among members? Knowledge of these attributes could help CaBi change its pricing model to provide the best service for its customers while also maximizing revenue.
+
+This problem-set and format for the metrics looks very good. I would recommend exapnding on the business metrics a little bit more, to include how accuracy of the model will specifically affect the characteristics metric.
