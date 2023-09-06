@@ -23,4 +23,11 @@ $$ Accuracy =\frac{TruePositive+TrueNegative}{𝑇rue𝑃ositive+𝐹alse𝑃osi
 
 Characteristics - Which characteristics of a ride are more important for members? Using the model, is it possible to identify attributes of a ride that are more common among members? Knowledge of these attributes could help CaBi change its pricing model to provide the best service for its customers while also maximizing revenue.
 
+
+|| Non-member Price | Member Price |
+|-|-|-|
+| Unlock fee | $1 per ride| $95 annual, free unlocks |
+|Classic Bike Unlock| $0.05 per minute| free for 45 minutes then $0.05 per minute |
+| Ebike Unlock | $0.15/min | $0.10/min |
+
 Using machine learning this project will seek to find a more optimum pricing structure to increase CaBi. Additionally, my project will seek to find where CaBi should invest in infrastructure to maximize their most profitable stations and provide better service to their clients.
