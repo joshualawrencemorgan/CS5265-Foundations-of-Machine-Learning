@@ -23,4 +23,4 @@ $$ Accuracy =\frac{TruePositive+TrueNegative}{𝑇rue𝑃ositive+𝐹alse𝑃osi
 
 Characteristics - Which characteristics of a ride are more important for members? Using the model, is it possible to identify attributes of a ride that are more common among members? Knowledge of these attributes could help CaBi change its pricing model to provide the best service for its customers while also maximizing revenue.
 
-This problem-set and format for the metrics looks very good. I would recommend exapnding on the business metrics a little bit more, to include how accuracy of the model will specifically affect the characteristics metric.
+Using machine learning this project will seek to find a more optimum pricing structure to increase CaBi. Additionally, my project will seek to find where CaBi should invest in infrastructure to maximize their most profitable stations and provide better service to their clients.
